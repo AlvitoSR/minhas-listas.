@@ -1,0 +1,34 @@
+#EXTM3U
+
+#EXTINF: -1 tvg-logo= group-title="CANAIS DE ESPORTES",Premiere Clubes
+http://super-cdn.link/premiereclubes/index.m3u8
+
+#EXTINF: -1 tvg-logo= group-title="CANAIS DE ESPORTES",Premiere 2
+http://super-cdn.link/premiere2/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvi7Lj0MXeVgzI86uwYcfzvZqkTSQzkCbYQSFX3BIVyzMM63UbPf0VkLM&s" group-title="CANAIS DE ESPORTES",Premiere 3
+http://super-cdn.link/premiere3/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvi7Lj0MXeVgzI86uwYcfzvZqkTSQzkCbYQSFX3BIVyzMM63UbPf0VkLM&s" group-title="CANAIS DE ESPORTES",Premiere 4
+http://super-cdn.link/premiere4/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvi7Lj0MXeVgzI86uwYcfzvZqkTSQzkCbYQSFX3BIVyzMM63UbPf0VkLM&s" group-title="CANAIS DE ESPORTES",Premiere 5
+http://super-cdn.link/premiere5/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvi7Lj0MXeVgzI86uwYcfzvZqkTSQzkCbYQSFX3BIVyzMM63UbPf0VkLM&s" group-title="CANAIS DE ESPORTES",Premiere 6
+http://super-cdn.link/premiere6/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvi7Lj0MXeVgzI86uwYcfzvZqkTSQzkCbYQSFX3BIVyzMM63UbPf0VkLM&s" group-title="CANAIS DE ESPORTES",Premiere 7
+http://super-cdn.link/premiere7/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvi7Lj0MXeVgzI86uwYcfzvZqkTSQzkCbYQSFX3BIVyzMM63UbPf0VkLM&s" group-title="CANAIS DE ESPORTES",Premiere 8
+http://super-cdn.link/premiere8/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzuf4kKB3OVGXD61JH2RdrsC45YIb6r4JXTy64W1Uuy71KrlJa_gkyiYw&s" group-title="CANAIS DE ESPORTES",SporTV
+http://super-cdn.link/sportv/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzuf4kKB3OVGXD61JH2RdrsC45YIb6r4JXTy64W1Uuy71KrlJa_gkyiYw&s" group-title="CANAIS DE ESPORTES",SporTV 2
+http://super-cdn.link/sportv2/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzuf4kKB3OVGXD61JH2RdrsC45YIb6r4JXTy64W1Uuy71KrlJa_gkyiYw&s" group-title="CANAIS DE ESPORTES",SporTV 3
+http://super-cdn.link/sportv3/index.m3u8
